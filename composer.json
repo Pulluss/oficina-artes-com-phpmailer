@@ -1,0 +1,6 @@
+{
+    "name": "gabriel/oficina-artes",
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
