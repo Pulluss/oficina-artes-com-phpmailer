@@ -1,4 +1,4 @@
-# Oficina de Artes — versão simples (PHP + HTML)
+# Oficina de Artes — versão simples (PHPmailer + HTML)
 
 ## Requisitos
 - PHP 7.4+ com PDO (extensão pdo_mysql)
